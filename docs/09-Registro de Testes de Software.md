@@ -2,7 +2,7 @@
 
 
 
-Requisitos para realização dos testes de software são:
+Os resultados obtidos nos testes de software realizados são descritos na Tabela a seguir.
 
 ●	Site publicado na Internet
 
@@ -10,7 +10,7 @@ Requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
  
-![Casos de teste de software 1](img/rsct1.PNG)
+![Registro de teste de software 1](img/RSCT1.png)
 
 ![Casos de teste de software 2](img/rsct2.PNG)
 
