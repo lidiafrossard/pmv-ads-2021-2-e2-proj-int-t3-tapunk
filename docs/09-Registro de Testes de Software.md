@@ -12,15 +12,15 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
  
 ![Registro de teste de software 1](img/RSCT1.png)
 
-![Casos de teste de software 2](img/rsct2.PNG)
+![Registro de teste de software 2](img/RSCT2.png)
 
-![Casos de teste de software 3](img/rsct3.PNG)
+![Registro de teste de software 3](img/RSCT3.png)
 
-![Casos de teste de software 4](img/rsct4.PNG)
+![Registro de teste de software 4](img/RSCT4.png)
 
-![Casos de teste de software 5](img/rsct5.PNG)
+![Registro de teste de software 5](img/RSCT5.png)
 
-![Casos de teste de software 6](img/rsct6.PNG)
+![Registro de teste de software 6](img/RSCT6.png)
 
-![Casos de teste de software 7](img/rsct7.PNG)
+![Registro de teste de software 7](img/RSCT7.png)
 
